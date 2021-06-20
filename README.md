@@ -11,6 +11,7 @@ ProXray: Protocol Model Learning and Guided Firmware Analysis | TSE'19 | https:/
 
 
 # USB Security
+
 Title | Venue | PDF
 --- | --- | ---
 Defending Against Malicious USB Firmware with GoodUSB | ACSAC'15 | https://github.com/daveti/papers/blob/master/acsac15/acsac2015djt.pdf
@@ -29,9 +30,14 @@ BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy | WOOT'20 
 LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks | Security'21 | https://github.com/daveti/papers/blob/master/security21/lb.pdf
 
 
-# Memory-Mapped I/O (MMIO)
+# Memory-Mapped I/O (MMIO) Security
 
 Title | Venue | PDF
 --- | --- | ---
 M2MON: Building an MMIO-based Security Reference Monitor for Unmanned Vehicles | Security'21 | https://github.com/daveti/papers/blob/master/security21/m2mon.pdf
 PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-metal Embedded Applications | Security'21 | https://github.com/daveti/papers/blob/master/security21/pasan.pdf
+
+
+# Direct Memory Access (DMA) Security
+Title | Venue | PDF
+--- | --- | ---
