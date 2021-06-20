@@ -32,5 +32,6 @@ LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks | Security'21 
 # Memory-Mapped I/O (MMIO)
 
 Title | Venue | PDF
+--- | --- | ---
 M2MON: Building an MMIO-based Security Reference Monitor for Unmanned Vehicles | Security'21 | https://github.com/daveti/papers/blob/master/security21/m2mon.pdf
 PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-metal Embedded Applications | Security'21 | https://github.com/daveti/papers/blob/master/security21/pasan.pdf
